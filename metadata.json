@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Analyzer",
+  "description": "An interactive machine learning workspace for customer churn prediction, featuring dataset analysis, model training simulations, custom parameter testing, and Python code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
